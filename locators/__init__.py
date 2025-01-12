@@ -1,0 +1,5 @@
+SEARCH=".//*[@class='gh-tb ui-autocomplete-input']"
+PRODUCT_LIST=".//*[@class='s-item__title']"
+ADD_TO_CART=".//*[text()='Add to cart']"
+CART_VALUE=".//*[@id='gh-cart-n']"
+PRODUCT_TITLE=".//*[@class='x-item-title__mainTitle']"
